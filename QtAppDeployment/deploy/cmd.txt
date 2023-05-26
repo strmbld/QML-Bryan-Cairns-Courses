@@ -1,0 +1,1 @@
+windeployqt.exe "D:\dev\cpp\Qt\Bryan Cairns Courses\QtAppDeployment\deploy\app.exe"

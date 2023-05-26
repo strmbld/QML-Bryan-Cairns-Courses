@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>LoginScreen.qml</file>
+    </qresource>
+</RCC>

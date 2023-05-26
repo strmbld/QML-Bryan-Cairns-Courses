@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Page1Form.qml</file>
+        <file>Page2Form.qml</file>
+        <file>Page3Form.qml</file>
+    </qresource>
+</RCC>

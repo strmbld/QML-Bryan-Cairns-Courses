@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>DiceModel.qml</file>
+        <file>DiceDelegate.qml</file>
+    </qresource>
+</RCC>
